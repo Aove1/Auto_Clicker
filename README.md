@@ -1,2 +1,2 @@
 # Auto_Clicker
-![Homem letera()]
+![thes is script](https://raw.githubusercontent.com/awfi1993/Auto_Clicker/master/image.png)
