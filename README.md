@@ -1,4 +1,4 @@
-# Auto_Clicker
+# High speed Auto Clicker 
 
  ###  Instructions
  * You can control Delay
